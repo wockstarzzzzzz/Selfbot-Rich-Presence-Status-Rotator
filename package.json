@@ -1,0 +1,14 @@
+{
+  "name": "rpc-status-selfbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "debug": "^4.4.3",
+    "discord.js-selfbot-v13": "^3.5.1",
+    "request": "^2.88.2"
+  }
+}
